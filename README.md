@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2565,3 +2566,13 @@ If you're seeing this error, you're likely using an old version of `react-script
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebook/create-react-app/issues) or [contribute some!](https://github.com/facebook/create-react-app/edit/master/packages/react-scripts/template/README.md)
+=======
+# gpxGenerator
+React project that generates a gpx file based on latitude, longitude, and radius inputs.
+
+## To install
+`npm i` or `yarn add`
+
+## To run
+`npm run` or `yarn start`
+>>>>>>> daf7564cc33e55093ef621b6956605a0dd73df26
